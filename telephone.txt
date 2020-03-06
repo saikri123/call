@@ -1,3 +1,5 @@
 we all know telephone directory
 telephone directory consists of telephone numbers
 it contains numarous pages that contain phone numbers of specific people of specific region
+
+as the technology is evolving different devices are beeing discovered for comminucating
